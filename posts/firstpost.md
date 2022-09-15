@@ -14,13 +14,6 @@ Bring to the table win-win survival strategies to ensure proactive domination. A
 
 Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.
 
-```diff-js
-// this is a command
-function myCommand() {
-+	let counter = 0;
-+	counter++;
-}
+![The San Juan Mountains are beautiful!](/img/skyline.jpg "San Juan Mountains")
 
-// Test with a line break above this line.
-console.log('Test');
-```
+![The San Juan Mountains are beautiful!](/img/skyline.jpg "San Juan Mountains")
